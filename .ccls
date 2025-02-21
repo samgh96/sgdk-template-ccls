@@ -1,0 +1,6 @@
+gcc
+%c -std=c11
+-Iinc
+-Ires
+-I/opt/sgdk/inc
+-I/opt/sgdk/res
